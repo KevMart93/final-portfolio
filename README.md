@@ -1,2 +1,2 @@
-# final-portfolio
-Final Class Version of my Portfolio and Website
+# Responsive-Portfolio
+HW 2 Part 2
